@@ -1,0 +1,5 @@
+[requires]
+fmt/6.1.2
+
+[generators]
+cmake
